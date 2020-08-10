@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c93ac342-66cb-49f3-8d9a-59a21e512379" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ez8oer2X7A5sqH27fnn5svP4Fe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c93ac342-66cb-49f3-8d9a-59a21e512379" name="Default" comment="" />
+      <created>1513111789484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513111789484</updated>
+      <workItem from="1513111791162" duration="736000" />
+      <workItem from="1513152695175" duration="194000" />
+      <workItem from="1513326896814" duration="43000" />
+      <workItem from="1595313238001" duration="8331000" />
+      <workItem from="1595322346377" duration="1444000" />
+      <workItem from="1595325160204" duration="2328000" />
+      <workItem from="1595402043439" duration="12486000" />
+      <workItem from="1595467691273" duration="20262000" />
+      <workItem from="1595553960442" duration="29817000" />
+      <workItem from="1595666362594" duration="219000" />
+      <workItem from="1595666619578" duration="832000" />
+      <workItem from="1595813750117" duration="24019000" />
+      <workItem from="1597000928422" duration="94000" />
+      <workItem from="1597024732805" duration="2934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="0" width="1173" height="733" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595490056646">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="183" y="0" width="1173" height="733" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.733@0.0.1366.733" timestamp="1595490056646" />
+    <state x="416" y="123" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1595835565027">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="416" y="123" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.733@0.0.1366.733" timestamp="1595835565027" />
+    <state x="2660" y="279" key="FileChooserDialogImpl" timestamp="1597000924326">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="279" key="FileChooserDialogImpl/1920.4.1920.1040/0.0.1920.1040@1920.4.1920.1040" timestamp="1597000924326" />
+    <state x="723" y="85" width="409" height="561" key="NewPhpClassDialog" timestamp="1595490316055">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="723" y="85" width="409" height="561" key="NewPhpClassDialog/0.0.1366.733@0.0.1366.733" timestamp="1595490316055" />
+    <state x="478" y="291" width="399" height="149" key="NewPhpFileDialog" timestamp="1595490336203">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="478" y="291" width="399" height="149" key="NewPhpFileDialog/0.0.1366.733@0.0.1366.733" timestamp="1595490336203" />
+    <state x="361" y="116" width="642" height="522" key="find.popup" timestamp="1595840868350">
+      <screen x="0" y="0" width="1366" height="733" />
+    </state>
+    <state x="361" y="116" width="642" height="522" key="find.popup/0.0.1366.733@0.0.1366.733" timestamp="1595840868350" />
+    <state x="399" y="122" width="618" height="522" key="find.popup/51.0.1315.768@51.0.1315.768" timestamp="1595415153290" />
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1595322530618">
+      <screen x="51" y="0" width="1315" height="768" />
+    </state>
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup/51.0.1315.768@51.0.1315.768" timestamp="1595322530618" />
+  </component>
+</project>
